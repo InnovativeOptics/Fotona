@@ -5,7 +5,7 @@ account: inva
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14087953
-bundleId: 9850594
+bundleId: 9922517
 url: https://inva.shinyapps.io/Fotona/
 version: 1
 asMultiple: FALSE
